@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062669336684",
+    "project_id": "socionet-6bebc",
+    "storage_bucket": "socionet-6bebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062669336684:android:811d00685279e1013d9849",
+        "android_client_info": {
+          "package_name": "com.example.socionet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062669336684-h7cjgb1alabjoij19uft46g0vltq14b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR1X80UQxe3Ai6p32Wqd3zzI_tDu4lnLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062669336684-3anmbr2rm0qmo5lrr8umk52fb6371p78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
